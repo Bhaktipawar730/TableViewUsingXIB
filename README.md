@@ -29,3 +29,7 @@ The `TableViewCell` class defines the layout and functionality of the custom tab
 
 ### TableViewCell.xib
 The XIB file contains the visual design of the custom table view cell, providing a clean separation of UI and logic.
+
+ScreenShot->
+
+![tab](https://github.com/user-attachments/assets/fb7d6f40-5831-4e12-84b9-00e24901f907)
